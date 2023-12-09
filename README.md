@@ -1,1 +1,1 @@
-# pubsub
+# @appstack-io/pubsub
